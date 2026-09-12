@@ -16,6 +16,7 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 - A breadboard.
 - A sound sensor.
 - An LED(any color).
+- 7 wires.
 
 ### Wiring
 
