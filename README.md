@@ -6,7 +6,7 @@ This is a sound detector made with the Arduino. The LED will light up when sound
 
 ## How to Use
 
-First, download the Arduino IDE if you don't have it. Then, go to the file called "Radar.ino" and copy and paste that into the Arduino IDE. Finally, upload a servo library. The wiring is listed below with a diagram.
+First, download the Arduino IDE if you don't have it. Then, go to the file called "Sound_LED.ino" and copy and paste that into the Arduino IDE. Finally, upload a servo library. The wiring is listed below with a diagram.
 
 ## Building
 
