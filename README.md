@@ -44,7 +44,7 @@ The brown thing is the resistor.
 
 ### Diagram
 
-![Screenshot 1](Screenshot%202026-09-12%20131928.png)
+![Screenshot 1](Screenshot%202026-09-29%20182150.png)
 
 ## Created With
 
