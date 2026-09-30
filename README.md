@@ -26,8 +26,9 @@ First, download the Arduino IDE if you don't have it. Then, go to the file calle
 - Sound sensor -, G, or GND connects to the blue line on the side of the breadboard.
 - Sound sensor A or A0 connects to analog pin 1 on the Arduino board.
 - Sound sensor D or D0 stays unconnected.
-- LED longer leg connects to digital pin 8 on the Arduino board.
+- LED longer leg connects to a 220 resistance resistor.
 - LED shorter leg connects to the blue line on the side of the breadboard.
+- The 220 resistance resistor connects to digital pin 8 on the Arduino board.
 
 ### Labels
 
@@ -38,6 +39,8 @@ The green capsule object in the middle is a green LED(any LED color is fine).
 The object in the top left corner is your Arduino board.
 
 The object in the bottom left corner is your breadboard.
+
+The brown thing is the resistor.
 
 ### Diagram
 
