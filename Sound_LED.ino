@@ -1,5 +1,5 @@
 //pins
-const int soundPin = A1;
+const int soundPin = A0;
 const int ledPin = 8;
 
 //caps the sound and filtes background noise
